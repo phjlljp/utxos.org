@@ -275,5 +275,8 @@
   Supports: "Yes"
   Affiliations: Randomly-generated Internet People
   Link: https://github.com/JeremyRubin/utxos.org/issues/19#issue-1083717798
-  Highlight: false
-
+- Name: P
+  Supports: "Yes"
+  Affiliations: "Director of Programming, The Bitcoin Conference and Co-Founder of Plebnet"
+  Highlight: true
+  Link: https://twitter.com/phjlljp/status/1472064493744185344?s=20
